@@ -1,11 +1,4 @@
 spring:
-    jpa:
-        show-sql: true
-        generate-ddl: false
-        hibernate:
-            ddl-auto: none
-        database: mysql
-        database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
     jackson:
         serialization:
             write-dates-as-timestamps: false
