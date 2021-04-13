@@ -14,7 +14,7 @@ build/
 .springBeans
 .sts4-cache
 bin/
-/src/main/resources/datasource.yml
+/src/main/resources/*datasource.yml
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
