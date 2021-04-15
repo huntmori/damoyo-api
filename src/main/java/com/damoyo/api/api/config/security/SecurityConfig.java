@@ -1,4 +1,4 @@
-package com.damoyo.api.api.config;
+package com.damoyo.api.api.config.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
